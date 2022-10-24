@@ -17,11 +17,8 @@ int main(){
 
         cin >> n;
 
-        n++;
-
         int a[n];
 
-        a[n] = 0;
         for(i = 0; i < n; i++){
             cin >> a[i];
         }
